@@ -36,8 +36,8 @@ npm start
 ```
 6. Follow the simple instructions on your screen and have fun!
    
-   ![Step 1](images/Step1.jpg)
+   ![Step 1](screenshots/Step1.jpg)
    
-   ![Step 2](images/Step2.jpg)
+   ![Step 2](screenshots/Step2.jpg)
    
-   ![Step 3](images/Step3.jpg)
+   ![Step 3](screenshots/Step3.jpg)
