@@ -250,7 +250,7 @@ const surpriseUser = () => {
 
 // Logging fx
 const logSearches = (command, keyword) => {
-    // Create log file if it does not exist and log cmds
+    // Create log file if it does not exist and append search queries
     try {
         const stats = fs.statSync(logFile);
     } catch (err) {
