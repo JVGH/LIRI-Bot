@@ -34,7 +34,7 @@ npm i
 ```
 npm start
 ```
-6. Follow the simple instructions on your screen and have fun!
+6. Follow the simple instructions on your terminal and have fun!
    
    ![Step 1](screenshots/Step1.jpg)
    
