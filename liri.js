@@ -4,17 +4,10 @@ require('dotenv').config();
 
 // import modules
 const fs = require('fs');
-const {
-    promisify
-} = require('util');
 const inquirer = require('inquirer');
 const axios = require('axios');
 const moment = require('moment');
 const Spotify = require('node-spotify-api');
-
-// promisify I/O fx
-const writeFile = promisify(fs.writeFile);
-const appendFile = promisify(fs.appendFile);
 
 // import keys from the env
 const keys = require('./keys.js');
